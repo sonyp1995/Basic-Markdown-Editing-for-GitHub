@@ -142,6 +142,19 @@
 | Appreciation    | `:clap:`        | 👏     |
 | Achievement     | `:trophy:`      | 🏆     |
 
+### Links
+```
+[UPES](https://www.upes.ac.in)
+```
+[UPES](https://www.upes.ac.in)
+
+### Images
+```
+![Alt text](https://link-to-image.com/image.png)
+```
+![Alt text](https://link-to-image.com/image.png)
+
+
 ### License
 
 1. Open your repository on GitHub.
