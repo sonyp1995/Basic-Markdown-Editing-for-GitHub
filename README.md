@@ -150,9 +150,9 @@
 
 ### Images
 ```
-![Alt text](https://link-to-image.com/image.png)
+![UPES](https://github.com/santoshpanda1995/Basic-Markdown-Editing-for-GitHub/blob/main/upes.png)
 ```
-![Alt text](https://link-to-image.com/image.png)
+![UPES](https://github.com/santoshpanda1995/Basic-Markdown-Editing-for-GitHub/blob/main/upes.png)
 
 
 ### License
